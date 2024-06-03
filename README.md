@@ -1,4 +1,4 @@
-# FAN-temperature-controller
+# FAN-Temperature-Controller
 
 **Idea:**
 
